@@ -1,0 +1,12 @@
+.logo{
+display: flex;
+justify-content: start;
+background-color:lightgray;
+margin: -8px;
+}
+
+.odkaz{
+display: flex;
+justify-content: flex-end;
+color: aliceblue;
+}
