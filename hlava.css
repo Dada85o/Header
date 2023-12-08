@@ -1,12 +1,22 @@
-.logo{
-display: flex;
-justify-content: start;
-background-color:lightgray;
-margin: -8px;
+body {
+    margin: 0;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color:lightgray;
+    align-items: center;
+}
+
+
+img{
+    width: 100px;
+}
+
+.odkaz a {
+    color: black;
+}
 .odkaz{
-display: flex;
-justify-content: flex-end;
-color: aliceblue;
+    margin-right: 50px;
 }
