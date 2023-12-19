@@ -21,3 +21,21 @@ img{
 .odkaz{
     margin-right: 50px;
 }
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    background-color: aqua;
+    justify-content: space-between ;
+    width: 5 px;
+}
+
+.ikon{
+    display: flex;
+    justify-content: center;
+    
+
+}
